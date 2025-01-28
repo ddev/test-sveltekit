@@ -1,14 +1,13 @@
 <svelte:head>
-	<title>About</title>
-	<meta name="description" content="About this app" />
+	<title>About DDEV Testing</title>
+	<meta name="description" content="Test page for DDEV to find at /about" />
 </svelte:head>
 
 <div class="text-column">
-	<h1>About this app</h1>
+	<h1>Test page for DDEV to find at /about</h1>
 
 	<p>
-		This is a <a href="https://svelte.dev/docs/kit">SvelteKit</a> app. You can make your own by typing
-		the following into your command line and following the prompts:
+		This project is just for automated testing of DDEV.
 	</p>
 
 	<pre>npx sv create</pre>
