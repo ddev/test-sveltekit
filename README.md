@@ -10,4 +10,5 @@ This is a test repository for DDEV automated testing of Sveltekit Node.js
   * `config.extras.yaml` sets up the `web_extra_daemons` and `web_extra_exposed_ports`
   * Test with `node build` inside container
   * 
+When it works, package it up as a tarball.
 
